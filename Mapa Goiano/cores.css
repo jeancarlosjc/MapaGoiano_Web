@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* Após modificar o arquivo SGV , são geradas algumas configurações de cores*/
+
+.str1 {stroke:#646464;stroke-width:0.077}
+.str0 {stroke:#646464;stroke-width:0.4233}
+.fil0 {fill:black}
+.fil1 {fill:black}
+	
+polygon:hover{
+ fill: #0D9BFA;
+}
+
+/* Usando hover para destacar o path */
+
+#MunSitiodAbadia:hover {
+  fill: #0D9BFA;
+}
